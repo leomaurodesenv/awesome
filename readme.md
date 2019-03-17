@@ -358,6 +358,7 @@
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+- [Game Datasets](https://github.com/leomaurodesenv/game-datasets) - Game datasets and tools.
 
 
 ## Development Environment
